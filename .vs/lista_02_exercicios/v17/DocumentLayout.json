@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|solutionrelative:lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|solutionrelative:lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|solutionrelative:lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|solutionrelative:lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|solutionrelative:lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|solutionrelative:lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{168DAC81-CFED-4F64-A657-2630E8A85665}|lista_02_exercicios03\\lista_02_exercicios03.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios05\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:20:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios04\\Program.cs",
               "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
               "RelativeToolTip": "lista_02_exercicios04\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T20:03:52.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios03\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios03\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "lista_02_exercicios03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:51:16.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T19:51:16.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios02\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios02\\Program.cs",
@@ -68,31 +84,30 @@
               "RelativeToolTip": "lista_02_exercicios02\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:38:50.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T19:38:50.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicio01\\Program.cs",
               "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
               "RelativeToolTip": "lista_02_exercicio01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:33:20.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios\\Program.cs",
               "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeToolTip": "lista_02_exercicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:09:59.348Z",
               "EditorCaption": ""

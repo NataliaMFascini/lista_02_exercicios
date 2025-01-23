@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicios", "lista_02_exercicios\lista_02_exercicios.csproj", "{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02_exercicios", "lista_02_exercicios\lista_02_exercicios.csproj", "{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicio01", "lista_02_exercicio01\lista_02_exercicio01.csproj", "{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02_exercicio01", "lista_02_exercicio01\lista_02_exercicio01.csproj", "{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicios02", "lista_02_exercicios02\lista_02_exercicios02.csproj", "{4D7D44C0-BD36-433E-A558-72643384D344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02_exercicios02", "lista_02_exercicios02\lista_02_exercicios02.csproj", "{4D7D44C0-BD36-433E-A558-72643384D344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicios03", "lista_02_exercicios03\lista_02_exercicios03.csproj", "{168DAC81-CFED-4F64-A657-2630E8A85665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02_exercicios03", "lista_02_exercicios03\lista_02_exercicios03.csproj", "{168DAC81-CFED-4F64-A657-2630E8A85665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicios04", "lista_02_exercicios04\lista_02_exercicios04.csproj", "{E5742FDC-6831-4EC5-B930-3812B2A97506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02_exercicios04", "lista_02_exercicios04\lista_02_exercicios04.csproj", "{E5742FDC-6831-4EC5-B930-3812B2A97506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02_exercicios05", "lista_02_exercicios05\lista_02_exercicios05.csproj", "{2023AA21-348F-49B6-8681-3148D80736AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E5742FDC-6831-4EC5-B930-3812B2A97506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5742FDC-6831-4EC5-B930-3812B2A97506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5742FDC-6831-4EC5-B930-3812B2A97506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2023AA21-348F-49B6-8681-3148D80736AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2023AA21-348F-49B6-8681-3148D80736AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2023AA21-348F-49B6-8681-3148D80736AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2023AA21-348F-49B6-8681-3148D80736AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -45,3 +45,19 @@ do
 }while(idade != 0);
 
 //for
+for(int i = 0; i != 0; i++)
+{
+    Console.WriteLine("Digite a idade: ");
+    i = Convert.ToInt32(Console.ReadLine());
+
+
+    if (i == 0)
+    {
+        Console.WriteLine($"A média das idades é: {media}");
+    }
+    else
+    {
+        media += i;
+        i = 1;
+    }
+}
