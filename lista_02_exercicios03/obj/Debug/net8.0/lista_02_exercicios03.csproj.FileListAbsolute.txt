@@ -1,0 +1,14 @@
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.AssemblyInfoInputs.cache
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.AssemblyInfo.cs
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.csproj.CoreCompileInputs.cache
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.exe
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.deps.json
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.runtimeconfig.json
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.dll
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.pdb
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.dll
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\refint\lista_02_exercicios03.dll
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.pdb
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.genruntimeconfig.cache
+C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\ref\lista_02_exercicios03.dll
