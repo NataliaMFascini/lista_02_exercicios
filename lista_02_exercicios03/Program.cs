@@ -8,12 +8,12 @@ double encerrar = 0;
 double nota = 0;
 
 //while
-while(encerrar != -1)
+while (encerrar != -1)
 {
     Console.WriteLine("Digite a nota dos alunos:");
     nota = Convert.ToInt32(Console.ReadLine());
 
-    if (nota >= 0 && nota <= 10)
+    if (nota >= 0 && nota <= 10 || nota == -1)
     {
         if (nota >= 6)
         {
@@ -34,7 +34,7 @@ do
     Console.WriteLine("Digite a nota dos alunos:");
     nota = Convert.ToInt32(Console.ReadLine());
 
-    if (nota >= 0 && nota <= 10)
+    if (nota >= 0 && nota <= 10 || nota == -1)
     {
         if (nota >= 6)
         {
@@ -47,15 +47,17 @@ do
     }
 
     encerrar = nota;
-}while(encerrar != -1);
+} while (encerrar != -1);
 
 //for
-for(double i = 0; i != -1; i--)
+for (encerrar = 0; encerrar != -1; encerrar = nota)
 {
     Console.WriteLine("Digite a nota dos alunos:");
     nota = Convert.ToInt32(Console.ReadLine());
 
-    if (nota >= 0 && nota <= 10)
+    encerrar = nota;
+
+    if (nota >= 0 && nota <= 10 || nota == -1)
     {
         if (nota >= 6)
         {
@@ -66,8 +68,6 @@ for(double i = 0; i != -1; i--)
     {
         Console.WriteLine("Valor incorreto");
     }
-
-    i = nota;
 }
 
 Console.WriteLine($"A quantidade de alunos aprovados é {alunos}");

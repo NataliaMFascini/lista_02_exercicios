@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|solutionrelative:lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E0FAD06-B59E-4516-A213-8658D4122CE9}|lista_02_exercicios09\\lista_02_exercicios09.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FAD06-B59E-4516-A213-8658D4122CE9}|lista_02_exercicios09\\lista_02_exercicios09.csproj|solutionrelative:lista_02_exercicios09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|solutionrelative:lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF2592DB-09A4-4EAA-8AFF-450C8FBCBB44}|lista_02_exercicios10\\lista_02_exercicios10.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2592DB-09A4-4EAA-8AFF-450C8FBCBB44}|lista_02_exercicios10\\lista_02_exercicios10.csproj|solutionrelative:lista_02_exercicios10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|solutionrelative:lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|solutionrelative:lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{168DAC81-CFED-4F64-A657-2630E8A85665}|lista_02_exercicios03\\lista_02_exercicios03.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{168DAC81-CFED-4F64-A657-2630E8A85665}|lista_02_exercicios03\\lista_02_exercicios03.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{168DAC81-CFED-4F64-A657-2630E8A85665}|lista_02_exercicios03\\lista_02_exercicios03.csproj|solutionrelative:lista_02_exercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7D44C0-BD36-433E-A558-72643384D344}|lista_02_exercicios02\\lista_02_exercicios02.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5742FDC-6831-4EC5-B930-3812B2A97506}|lista_02_exercicios04\\lista_02_exercicios04.csproj|solutionrelative:lista_02_exercicios04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2023AA21-348F-49B6-8681-3148D80736AD}|lista_02_exercicios05\\lista_02_exercicios05.csproj|solutionrelative:lista_02_exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07947B76-33F5-4278-80DD-FC15A9CC21B2}|lista_02_exercicios06\\lista_02_exercicios06.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07947B76-33F5-4278-80DD-FC15A9CC21B2}|lista_02_exercicios06\\lista_02_exercicios06.csproj|solutionrelative:lista_02_exercicios06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC77CAA-50D5-42A2-A0B6-91928C03B98D}|lista_02_exercicios\\lista_02_exercicios.csproj|solutionrelative:lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409D3C48-954D-49BC-BEE5-4DA67607D5FF}|lista_02_exercicios07\\lista_02_exercicios07.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409D3C48-954D-49BC-BEE5-4DA67607D5FF}|lista_02_exercicios07\\lista_02_exercicios07.csproj|solutionrelative:lista_02_exercicios07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D457497-6488-459A-9D28-07A20273FAEC}|lista_02_exercicios08\\lista_02_exercicios08.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D457497-6488-459A-9D28-07A20273FAEC}|lista_02_exercicios08\\lista_02_exercicios08.csproj|solutionrelative:lista_02_exercicios08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E0B0CD-9274-4CA9-BC43-5303B420B71F}|lista_02_exercicio01\\lista_02_exercicio01.csproj|solutionrelative:lista_02_exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D44C0-BD36-433E-A558-72643384D344}|lista_02_exercicios02\\lista_02_exercicios02.csproj|c:\\users\\nataliamariano\\desktop\\curso transfome-se\\logica de programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7D44C0-BD36-433E-A558-72643384D344}|lista_02_exercicios02\\lista_02_exercicios02.csproj|solutionrelative:lista_02_exercicios02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,80 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
-              "RelativeDocumentMoniker": "lista_02_exercicios05\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
-              "RelativeToolTip": "lista_02_exercicios05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios10\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios10\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios10\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:20:06.559Z",
+              "WhenOpened": "2025-01-24T18:48:00.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
-              "RelativeDocumentMoniker": "lista_02_exercicios04\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
-              "RelativeToolTip": "lista_02_exercicios04\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDwAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios09\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios09\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios09\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:03:52.402Z",
+              "WhenOpened": "2025-01-24T18:38:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios08\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios08\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios08\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios08\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:24:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios07\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios07\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios07\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:13:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios06\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios06\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios06\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios06\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:55:44.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios03\\Program.cs",
-              "RelativeDocumentMoniker": "lista_02_exercicios03\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios03\\Program.cs",
-              "RelativeToolTip": "lista_02_exercicios03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios05\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios05\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios05\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:51:16.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios02\\Program.cs",
-              "RelativeDocumentMoniker": "lista_02_exercicios02\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios02\\Program.cs",
-              "RelativeToolTip": "lista_02_exercicios02\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:38:50.496Z"
+              "WhenOpened": "2025-01-23T20:20:06.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios04\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios04\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios04\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:03:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios03\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios03\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios03\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:51:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios02\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02_exercicios02\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios02\\Program.cs",
+              "RelativeToolTip": "lista_02_exercicios02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:38:50.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicio01\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicio01\\Program.cs",
               "RelativeToolTip": "lista_02_exercicio01\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:33:20.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\NataliaMariano\\Desktop\\Curso Transfome-se\\Logica de Programa\u00E7\u00E3o\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeToolTip": "lista_02_exercicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:09:59.348Z",
               "EditorCaption": ""

@@ -8,7 +8,7 @@ int diasTrabalhados = 0;
 
 //while
 while (dias != 0)
-{ 
+{
     Console.WriteLine("Quantos dias foram trabalhados?");
     dias = Convert.ToInt32(Console.ReadLine());
     diasTrabalhados++;
@@ -19,17 +19,20 @@ do
 {
     Console.WriteLine("Quantos dias foram trabalhados?");
     dias = Convert.ToInt32(Console.ReadLine());
-    diasTrabalhados++;
+    if (dias != 0)
+    {
+        diasTrabalhados++;
+    }
 
-}while(dias != 0);
+} while (dias != 0);
 
 //for
-for(int i =1; i != 0; i++)
+for (int i = 1; i != 0; i++)
 {
     Console.WriteLine("Quantos dias foram trabalhados?");
-    dias = Convert.ToInt32(Console.ReadLine());
-    diasTrabalhados++;
-    i = dias;
+    dias = int.Parse(Console.ReadLine());
+    if (dias == 0) break;
+    diasTrabalhados++;    
 }
 
 Console.WriteLine($"A quantidade de dias trabalhados foi {diasTrabalhados}");

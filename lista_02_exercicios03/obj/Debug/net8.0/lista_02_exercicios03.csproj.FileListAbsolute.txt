@@ -12,3 +12,18 @@ C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03
 C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.pdb
 C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.genruntimeconfig.cache
 C:\Users\natalia.mfascini\source\repos\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\ref\lista_02_exercicios03.dll
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.exe
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.deps.json
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.runtimeconfig.json
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.dll
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\bin\Debug\net8.0\lista_02_exercicios03.pdb
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.AssemblyInfoInputs.cache
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.AssemblyInfo.cs
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.csproj.CoreCompileInputs.cache
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.sourcelink.json
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.dll
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\refint\lista_02_exercicios03.dll
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.pdb
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\lista_02_exercicios03.genruntimeconfig.cache
+C:\Users\NataliaMariano\Desktop\Curso Transfome-se\Logica de Programação\lista_02_exercicios\lista_02_exercicios03\obj\Debug\net8.0\ref\lista_02_exercicios03.dll

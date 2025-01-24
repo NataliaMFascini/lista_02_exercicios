@@ -6,10 +6,12 @@
 using System;
 
 int idade = 1;
+int soma = 0;
 int media = 0;
+int quantidade = 0;
 
-//while
-while(idade != 0)
+////while
+while (idade != 0)
 {
     Console.WriteLine("Digite a idade: ");
     idade = Convert.ToInt32(Console.ReadLine());
@@ -17,16 +19,18 @@ while(idade != 0)
 
     if (idade == 0)
     {
+        media = soma / quantidade;
         Console.WriteLine($"A média das idades é: {media}");
     }
     else
     {
-        media += idade;
+        soma += idade;
         idade = 1;
+        quantidade++;
     }
 }
 
-//do while
+////do while
 do
 {
     Console.WriteLine("Digite a idade: ");
@@ -35,29 +39,27 @@ do
 
     if (idade == 0)
     {
+        media = soma / quantidade;
         Console.WriteLine($"A média das idades é: {media}");
     }
     else
     {
-        media += idade;
+        soma += idade;
         idade = 1;
+        quantidade++;
     }
-}while(idade != 0);
+} while (idade != 0);
 
 //for
-for(int i = 0; i != 0; i++)
+for (quantidade = 0; idade != 0; quantidade++)
 {
     Console.WriteLine("Digite a idade: ");
-    i = Convert.ToInt32(Console.ReadLine());
+    idade = Convert.ToInt32(Console.ReadLine());
 
-
-    if (i == 0)
+    if (idade == 0)
     {
+        media = soma / quantidade;
         Console.WriteLine($"A média das idades é: {media}");
     }
-    else
-    {
-        media += i;
-        i = 1;
-    }
+    soma += idade;
 }
